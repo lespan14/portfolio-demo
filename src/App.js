@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Header from './component/Header';
 import About from './component/About';
+import Projects from './component/Projects';
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
       <Header />
 
       <About />
+
+      <Projects />
       <h1> Hello World! </h1>
 
       <a>Just line</a><br></br>

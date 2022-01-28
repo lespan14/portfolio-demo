@@ -65,7 +65,7 @@ function About() {
                 <Col sm={9} md={10} lg={{ span: 5, offset: 1}}>
                     <h1>Hello!</h1>
                     <h4 style={{fontWeight: "300"}}>
-                        I am a student at The Hong Kong Polytechnic Uuniversity, studying in Fintech & Artificial Intellignece.
+                        I am a student at The Hong Kong Polytechnic Uuniversity, studying in Financial Technology & Artificial Intellignece.
                         I am trying to learn html and js with this personal site. My first goal is to be a Dev ops and also work
                         in part of Cyber Security.
                     </h4>
